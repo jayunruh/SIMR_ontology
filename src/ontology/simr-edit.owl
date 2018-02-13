@@ -5139,7 +5139,6 @@
     <!-- http://purl.obolibrary.org/obo/SIMR_0000265 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/SIMR_0000265">
-        <owl:equivalentClass rdf:resource="http://purl.obolibrary.org/obo/simr.owl#Super-Resolution_Microscopes"/>
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SIMR_0000216"/>
         <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">methods for increasing the resolution beyond the classical Abbe diffraction limit</obo:IAO_0000115>
         <oboInOwl:created_by rdf:datatype="http://www.w3.org/2001/XMLSchema#string">jm</oboInOwl:created_by>
